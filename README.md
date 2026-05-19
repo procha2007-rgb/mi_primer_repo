@@ -1,2 +1,1 @@
-# Mi primer repositorio
-Estoy aprendiendo GitHub.
+Esto lo escribí en mi-primera-rama.
